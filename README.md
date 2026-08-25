@@ -1,2 +1,3 @@
 # capstone-project
-Capstone project (TBA)
+Capstone project for Team Bacon House.
+
