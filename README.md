@@ -1,5 +1,6 @@
 ## Overview
 This is the code repository for Team Bacon House's capstone project.
+
 Team Bacon House consists of:
 - Garrett Walder
 - Noor "Dean" Khoncarly
